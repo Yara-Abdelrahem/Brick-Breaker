@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(16,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(16,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(30,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(30,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(153,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(157,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(172,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(172,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(198,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(198,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(216,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Project1\Source.cpp(216,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\yaraa\OneDrive\Desktop\project\brick breaker project\Debug\Project1.exe

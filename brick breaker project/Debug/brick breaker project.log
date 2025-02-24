@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(17,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(17,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(31,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(31,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(154,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(158,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(173,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(173,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(199,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(199,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(217,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yaraa\OneDrive\Desktop\project\Project2\Project2\Source.cpp(217,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\yaraa\OneDrive\Desktop\project\Project2\Debug\Project2.exe
